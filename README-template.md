@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 
@@ -23,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/mkhantk/qr-code-component/](https://github.com/mkhantk/qr-code-component/)
-- Live Site URL: [https://mkhantk.github.io/qr-code-component/](https://mkhantk.github.io/qr-code-component/)
+- Solution URL: [Github Repo](https://github.com/mkhantk/qr-code-component/)
+- Live Site URL: [Frontend Mentor | QR code component](https://mkhantk.github.io/qr-code-component/)
 
 ## My process
 
@@ -33,7 +32,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML5
 - CSS 
 - Flexbox
-- CSS Grid
 
 
 ### What I learned
